@@ -3,8 +3,8 @@ import random
 import json
 import os
 
-settings_dir = "/settings"
-jsonpath = "/settings/settings.json"
+settings_dir = "settings"
+jsonpath = "settings/settings.json"
 
 default_json = {
     "MODE": "LOCAL"
